@@ -19,7 +19,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e956713a-f02e-4353-b05d-82e21ad86813" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/.idea/groupassignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/BubbleSort" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/bubblesort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/constraints.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/constraints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/output/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/requirements.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneDrive/Desktop/Intro_DSA/groupassignment/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +79,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Users/domin/CLionProjects/POPULATE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -118,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719164192636</updated>
       <workItem from="1719164194473" duration="198000" />
-      <workItem from="1719164404756" duration="4951000" />
+      <workItem from="1719164404756" duration="5441000" />
     </task>
     <servers />
   </component>
