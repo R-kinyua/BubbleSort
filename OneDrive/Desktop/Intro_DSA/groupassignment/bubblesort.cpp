@@ -1,12 +1,12 @@
 #include <iostream>
-#include <vector>
-#include <string>
+#include <vector> // library used to create dynamic arrays that are useful for storing and manipulating data
+#include <string> // library that provides a class called 'std::strings'
 
 // Function to populate an array
 std::vector<int> populate_array() {
     // Initialize an empty vector
     std::vector<int> arr;
-
+    // empty array
     // Prompt the user to enter elements
     std::cout << "Enter elements to add to the array. Type 'done' when finished." << std::endl;
 
@@ -24,8 +24,8 @@ std::vector<int> populate_array() {
             // Try to convert the user input to an integer
             try {
                 // Convert the user input to an integer and append it to the array
-                int num = std::stoi(user_input);
-                arr.push_back(num);
+                int num = std::stoi(user_input); // library function that converts a string to an integer 
+                arr.push_back(num); // adds a new element to the ebd of the vector
             } catch (const std::invalid_argument& e) {
                 // If the user input cannot be converted to an integer, print an error message
                 std::cout << "Please enter a valid integer." << std::endl;
@@ -45,7 +45,7 @@ std::vector<int> bubble_sort(std::vector<int> arr) {
     // Iterate through the array n times
     for (int i = 0; i < n; i++) {
         // Iterate through the array n-i-1 times (since the last i elements are already sorted)
-        for (int j = 0; j < n - i - 1; j++) {
+        for (int j = 0; j < n - i - 1; j++) { // ++j would cause the program to end prematurely for it will end when j = n -i-1
             // If the current element is greater than the next element, swap them
             if (arr[j] > arr[j + 1]) {
                 // Swap the elements

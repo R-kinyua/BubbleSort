@@ -15,7 +15,7 @@ def populate_array():
             # Try to convert the user input to an integer
             try:
                 # Convert the user input to an integer and append it to the array
-                arr.append(int(user_input))
+                arr.append(int(user_input)) # adds an element at the end of the array
             except ValueError:
                 # If the user input cannot be converted to an integer, print an error message
                 print("Please enter a valid integer.")
