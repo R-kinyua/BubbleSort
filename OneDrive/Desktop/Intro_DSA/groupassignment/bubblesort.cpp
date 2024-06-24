@@ -6,7 +6,7 @@
 std::vector<int> populate_array() {
     // Initialize an empty vector
     std::vector<int> arr;
-
+    // empty array
     // Prompt the user to enter elements
     std::cout << "Enter elements to add to the array. Type 'done' when finished." << std::endl;
 
