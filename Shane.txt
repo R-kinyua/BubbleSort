@@ -1,1 +1,2 @@
 "My name is Shane and I am a collaborator on this project."
+"This is the first patch of the project."
